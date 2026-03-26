@@ -1,0 +1,36 @@
+ 
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>BIG FOUR COMPANIES</title> 
+<link rel="stylesheet" href="style.css"> 
+</head> 
+<body> 
+<header> 
+<h1>BIG FOUR COMPANIES</h1> 
+<nav id="navLinks"> 
+<a href="index.html">HOME</a> 
+<a href="jobs.html">OBS</a> 
+<a href="apply.html">APPLY</a> 
+<a href="contact.html">CONTACT</a> 
+</nav> 
+</header> 
+<section class="hero"> 
+<h2>Select Your Best IT Company</h2> 
+<p>Big 4 companies give your best future.</p> 
+<button onclick="goToJobs()" class="btn">Explore Jobs</button> 
+</section> 
+<section class="companies"> 
+<h2>Big Four Companies</h2> 
+<div class="company-grid"> 
+<div class="company-card">Deliotte</div> 
+<div class="company-card">PWC</div> 
+<div class="company-card">EY</div> 
+<div class="company-card">KPMG</div> 
+</div> 
+</section> 
+<footer> 
+<p>© 2026 Big Four Companies</p> 
+</footer><script src="script.js"></script> 
+</body> 
+</html>
